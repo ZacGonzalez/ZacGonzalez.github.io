@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Zac Gonzalez ePortfolio
 
 You can use the [editor on GitHub](https://github.com/ZacGonzalez/ZacGonzalez.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my ePortfolio that I want to use to showcase my knowledge on the field of Computer Science.
 
 ### Markdown
 
