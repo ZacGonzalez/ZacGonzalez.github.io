@@ -1,1 +1,1 @@
-This is my repository for my final project for the Computer Science Capstone Course at Southern New Hampshire University.
+This was my repository for my final project for the Computer Science Capstone Course at Southern New Hampshire University. I have also began to add to it since graduation and am including it with my resume to showcase my abilities.
